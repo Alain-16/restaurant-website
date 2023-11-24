@@ -41,4 +41,4 @@ At "Live Dinner," we are dedicated to providing a culinary experience that trans
 
 IMAGES
 ![website images](images/live-dinner-ipad.jpeg)
-![website images](images/live-dinner-laptop.jpeg)
+![website images](images/live-dinner-laptop.jpg)
