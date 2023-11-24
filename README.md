@@ -40,4 +40,5 @@ Welcome to "Live Dinner," where culinary excellence meets a vibrant dining exper
 At "Live Dinner," we are dedicated to providing a culinary experience that transcends traditional dining. Explore our website, and when you're ready to embark on a culinary journey, join us for a live dinner that engages all your senses. Your table is set, and the stage is yours.
 
 IMAGES
-![website images](images/live-dinner-ipad.jpg)
+![website images](images/live-dinner-ipad.jpeg)
+![website images](images/live-dinner-laptop.jpeg)
